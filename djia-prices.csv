@@ -1,0 +1,31 @@
+﻿Company,Exchange,Symbol,Industry,Date added,Notes,Index weighting,price
+3M,NYSE,MMM,Conglomerate,8/9/1976,Manufacturing,1.54%,100
+American Express,NYSE,AXP,Financial services,8/30/1982,,3.64%,101
+Amgen,NASDAQ,AMGN,Biopharmaceutical,8/31/2020,,4.80%,102
+Amazon,NASDAQ,AMZN,Retailing,2/26/2024,,2.93%,103
+Apple,NASDAQ,AAPL,Information technology,3/19/2015,,3.04%,104
+Boeing,NYSE,BA,Aerospace and defense,3/12/1987,,3.36%,105
+Caterpillar,NYSE,CAT,Construction and mining,5/6/1991,,5.45%,106
+Chevron,NYSE,CVX,Petroleum industry,2/19/2008,Also 1930-07-18 to 1999-11-01,2.59%,107
+Cisco,NASDAQ,CSCO,Information technology,6/8/2009,,0.81%,108
+Coca-Cola,NYSE,KO,Drink industry,3/12/1987,Also 1932-05-26 to 1935-11-20,1.02%,109
+Disney,NYSE,DIS,Broadcasting and entertainment,5/6/1991,,1.81%,110
+Dow,NYSE,DOW,Chemical industry,5/6/1991,,0.94%,111
+Goldman Sachs,NYSE,GS,Financial services,4/2/2019,,6.54%,112
+Home Depot,NYSE,HD,Home Improvement,11/1/1999,,6.23%,113
+Honeywell,NASDAQ,HON,Conglomerate,8/31/2020,AlliedSignal and Honeywell,3.34%,114
+IBM,NYSE,IBM,Information technology,6/29/1979,Also 1932-05-26 to 1939-03-04,3.09%,115
+Intel,NASDAQ,INTC,Semiconductor industry,11/1/1999,,0.72%,116
+Johnson & Johnson,NYSE,JNJ,Pharmaceutical industry,3/17/1997,,2.70%,117
+JPMorgan Chase,NYSE,JPM,Financial services,5/6/1991,,3.07%,118
+McDonald's,NYSE,MCD,Food industry,10/30/1985,,4.98%,119
+Merck,NYSE,MRK,Pharmaceutical industry,6/29/1979,,2.16%,120
+Microsoft,NASDAQ,MSFT,Information technology,11/1/1999,,6.83%,121
+Nike,NYSE,NKE,Clothing industry,9/20/2013,,1.75%,122
+Procter & Gamble NYSE,NYSE,PG,Fast-moving consumer goods,5/26/1932,,2.69%,123
+Salesforce,NYSE,CRM,Information technology,8/31/2020,,5.04%,124
+Travelers,NYSE,TRV,Insurance,6/8/2009,,3.69%,125
+UnitedHealth Group,NYSE,UNH,Managed health care,9/24/2012,,8.81%,126
+Verizon,NYSE,VZ,Telecommunications industry,4/8/2004,,0.67%,127
+Visa,NYSE,V,Financial services,9/20/2013,,4.76%,128
+Walmart,NYSE,WMT,Retailing,3/17/1997,,1.00%,129

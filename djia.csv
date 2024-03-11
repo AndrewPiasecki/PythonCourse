@@ -1,0 +1,31 @@
+﻿Company,Exchange,Symbol,Industry,Date added,Notes,Index weighting
+3M,NYSE,MMM,Conglomerate,8/9/76,Manufacturing,1.54%
+American Express,NYSE,AXP,Financial services,8/30/82,,3.64%
+Amgen,NASDAQ,AMGN,Biopharmaceutical,8/31/20,,4.80%
+Amazon,NASDAQ,AMZN,Retailing,2/26/24,,2.93%
+Apple,NASDAQ,AAPL,Information technology,3/19/15,,3.04%
+Boeing,NYSE,BA,Aerospace and defense,3/12/87,,3.36%
+Caterpillar,NYSE,CAT,Construction and mining,5/6/91,,5.45%
+Chevron,NYSE,CVX,Petroleum industry,2/19/08,Also 1930-07-18 to 1999-11-01,2.59%
+Cisco,NASDAQ,CSCO,Information technology,6/8/09,,0.81%
+Coca-Cola,NYSE,KO,Drink industry,3/12/87,Also 1932-05-26 to 1935-11-20,1.02%
+Disney,NYSE,DIS,Broadcasting and entertainment,5/6/91,,1.81%
+Dow,NYSE,DOW,Chemical industry,5/6/91,,0.94%
+Goldman Sachs,NYSE,GS,Financial services,4/2/19,,6.54%
+Home Depot,NYSE,HD,Home Improvement,11/1/99,,6.23%
+Honeywell,NASDAQ,HON,Conglomerate,8/31/20,AlliedSignal and Honeywell,3.34%
+IBM,NYSE,IBM,Information technology,6/29/79,Also 1932-05-26 to 1939-03-04,3.09%
+Intel,NASDAQ,INTC,Semiconductor industry,11/1/99,,0.72%
+Johnson & Johnson,NYSE,JNJ,Pharmaceutical industry,3/17/97,,2.70%
+JPMorgan Chase,NYSE,JPM,Financial services,5/6/91,,3.07%
+McDonald's,NYSE,MCD,Food industry,10/30/85,,4.98%
+Merck,NYSE,MRK,Pharmaceutical industry,6/29/79,,2.16%
+Microsoft,NASDAQ,MSFT,Information technology,11/1/99,,6.83%
+Nike,NYSE,NKE,Clothing industry,9/20/13,,1.75%
+Procter & Gamble NYSE,NYSE,PG,Fast-moving consumer goods,5/26/32,,2.69%
+Salesforce,NYSE,CRM,Information technology,8/31/20,,5.04%
+Travelers,NYSE,TRV,Insurance,6/8/09,,3.69%
+UnitedHealth Group,NYSE,UNH,Managed health care,9/24/12,,8.81%
+Verizon,NYSE,VZ,Telecommunications industry,4/8/04,,0.67%
+Visa,NYSE,V,Financial services,9/20/13,,4.76%
+Walmart,NYSE,WMT,Retailing,3/17/97,,1.00%
